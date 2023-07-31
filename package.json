@@ -1,0 +1,26 @@
+{
+  "name": "xwitter-network",
+  "version": "0.0.01",
+  "description": "Xwitter is a microblogging platform that lets you share short text updates with other users. With Xwitter, you can stay up-to-date on the latest news and events, connect with friends and family, and share your thoughts and ideas with the world.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "prod": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rafael Dfb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rafaeldfb/Xwitter/issues"
+  },
+  "homepage": "https://github.com/Rafaeldfb/Xwitter#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.1",
+    "vite": "^4.4.7"
+  },
+  "devDependencies": {
+    "sass": "^1.64.1"
+  }
+}
